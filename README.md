@@ -1,4 +1,4 @@
-# instagram_like_bot
+# instagram like bot
 A bot that will log into instagram, do a search, and like the search results.  Utilizing selenium webdriver
 
 This code is used for demo purpose only.  Instagram has procedures in place to detect this kind of bots.  The code shows how to use selenium to drive Firfox to:
